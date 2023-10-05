@@ -1,5 +1,5 @@
 № Игра Pac-Man
-! [Враг и главный герой](https://w.fornun.com/fetch/d9/d9eca4567d2ee1eb98013a293cd64ab6.jpeg)
+![Враг и главный герой](https://w.fornun.com/fetch/d9/d9eca4567d2ee1eb98013a293cd64ab6.jpeg)
 
 **Описание проекта:** данный проект повторяет знаменитую игру Pac-Man, разработанную в 1980г.
 Также прикладываю ссылку на данную игру [Pac-man](https://www.pacman.com/en/)
